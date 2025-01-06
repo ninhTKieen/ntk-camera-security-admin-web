@@ -1,0 +1,30 @@
+{
+  "MESSAGE_ESTATE_MEMBER_REMOVE": {
+    "title": "Delete member",
+    "body": "{0.memberName} has been removed from {1.estateName}"
+  },
+  "MESSAGE_ESTATE_MEMBER_ADD": {
+    "title": "Add member",
+    "body": "{0.memberName} has been added to {1.estateName}"
+  },
+  "MESSAGE_ESTATE_MEMBER_INVITE": {
+    "title": "Invite to become home member",
+    "body": "{0.memberName} has invited you to join home {1.estateName}"
+  },
+  "MESSAGE_ESTATE_MEMBER_UPDATE_ROLE_MANAGER": {
+    "title": "Has become manager in home",
+    "body": "{0.memberName} has set you as manager in home {1.estateName}"
+  },
+  "MESSAGE_ESTATE_MEMBER_UPDATE_ROLE_MEMBER": {
+    "title": "Has become member in home",
+    "body": "{0.memberName} has set you as member in home {1.estateName}"
+  },
+  "MESSAGE_DEVICE_ADD": {
+    "title": "Add device",
+    "body": "{0.deviceName} has been added to home {1.estateName}"
+  },
+  "MESSAGE_DEVICE_REMOVE": {
+    "title": "Delete device",
+    "body": "{0.memberName} removed device {1.deviceName} from home {2.estateName}"
+  }
+}
