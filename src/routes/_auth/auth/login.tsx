@@ -59,6 +59,10 @@ function LoginPage() {
       <Layout.Content
         style={{
           height: '100vh',
+          backgroundImage: 'url(/assets/images/login-bg.jpg)',
+          backgroundSize: 'cover',
+          backgroundPosition: 'center',
+          backgroundRepeat: 'no-repeat',
         }}
       >
         <Flex
